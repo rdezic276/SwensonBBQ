@@ -55,9 +55,7 @@
 
 </table>
 
-<footer>
-2016 SwensonBBQ, All Rights Reserved.
-</footer>
+<?php include '../resources/footer.php'; ?>
 
 </body>
 

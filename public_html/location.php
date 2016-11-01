@@ -24,9 +24,7 @@
 
 <div><img src="img/map.png" alt="map" id= "map"/></div>
 
-<footer>
-2016 SwensonBBQ, All Rights Reserved.
-</footer>
+<?php include '../resources/footer.php'; ?>
 
 </body>
 

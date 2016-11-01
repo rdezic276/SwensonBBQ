@@ -30,9 +30,7 @@ itself on honesty. All of our products are non GMO and certified gluten free pro
 
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 
-<footer>
-2016 SwensonBBQ, All Rights Reserved.
-</footer>
+<?php include '../resources/footer.php'; ?>
 
 </body>
 </html>

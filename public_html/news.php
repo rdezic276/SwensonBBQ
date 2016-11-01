@@ -41,9 +41,7 @@ Busy moms and busy dads sometimes do not have enough time to prepare a fancy din
 
 <script async src="https://static.addtoany.com/menu/page.js"></script>
 
-<footer>
-2016 SwensonBBQ, All Rights Reserved.
-</footer>
+<?php include '../resources/footer.php'; ?>
 
 </body>
 

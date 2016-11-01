@@ -29,9 +29,7 @@
     <button class="button" type ="submit"  onclick="alert('Log on successful. Welcome back!')" style="vertical-align:middle"><span>Log in</span></button>
 </form>
 
-<footer>
-2016 SwensonBBQ, All Rights Reserved.
-</footer>
+<?php include '../resources/footer.php'; ?>
 
 </body>
 
