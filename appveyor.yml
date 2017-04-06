@@ -1,0 +1,5 @@
+configuration: Release 
+
+ - nuget restore
+ verbosity: minimal
+ publish_wap: true
